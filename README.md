@@ -1,18 +1,26 @@
-## Batch-Tx
+# EVM Batch Transaction Bot
 
-- Copy all the codes from `script.sh`
 - Open [Codespace](https://github.com/codespaces) or Gitpod
-  
+
+## Copy Code & Past
 ```
 wget https://raw.githubusercontent.com/BidyutRoy2/batch-tx-bot/main/script.sh && chmod +x script.sh && ./script.sh
 ```
 
-- Create a new file and name it `script.sh`, also paste all those copied code in this file
-- Use this command to run
-```bash
-chmod +x script.sh
-```
-```bash
-./script.sh
-```
-- Done
+- ### Enter Mainnet/Testnet RPC URL
+
+- ### Enter Wallet Privete Key
+
+- ### Make 1 Swap Mainnet/Testnet Web
+
+- ### Go Your Transaction Link Mainnet/Testnet Swap
+
+- ### Copy & Past > Interacted With Contract Address
+
+- ### Copy & Past > Raw Enter HEX
+
+- ### Enter Gas Limit & Gwei Fees
+
+- ### Enter Number OF Transaction You Make
+
+- ### Make More Try Same Process
