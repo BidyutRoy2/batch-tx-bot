@@ -85,6 +85,9 @@ EOF
 NODE_PATH=$(npm root -g):$(pwd)/node_modules node $temp_node_file
 
 rm $temp_node_file
+
 echo
-echo_blue_bold "Follow @ZunXBT on X for more guide like this"
+echo_blue_bold "Follow Hidden Gem Get more guide like this"
 echo
+
+sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/warden-protocol-node/main/logo.sh | bash && sleep 1
